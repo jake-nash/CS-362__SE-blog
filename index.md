@@ -1,8 +1,8 @@
 # SE blog
 
-
-
-
+ 
+ 
+ 
 
 #### HW0: Introduction
 
