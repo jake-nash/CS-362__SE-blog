@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# SE blog
 
-You can use the [editor on GitHub](https://github.com/jake-nash/CS-362__SE-blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### HW0: Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I'm Jacob Nash, a junior at CofC. This is my second attempt at getting a degree, so far it's going better than the first try. I'm enjoying learning new things again. I work as a math tutor, so if you need help in any math class feel free to reach out; my email is nashjr@g.cofc.edu, and my phone is (843) 847-1338.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### HW1: Chapter 1
+
+((((testing))))
 
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jake-nash/CS-362__SE-blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
