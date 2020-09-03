@@ -14,17 +14,17 @@ Hi, I'm Jacob Nash, a junior at CofC. This is my second attempt at getting a deg
 
 #### HW1: Chapter 1
 
-
 _1.3:  What are the four important attributes that all professional software should possess? Suggest four other attributes that may sometimes be significant._
 
-Acceptability, Dependability/Security, Efficiency, and Maintainability. I also think that all software should be economically feasibile (can be made within a pre-defined budget), ethically sound, unintrusive (concerning users' private information), and, to some extent, future-proof (this is obviously not guaranteed, but software should continue to receive support/maintainence while it is still in use).
+Ans: Acceptability, Dependability/Security, Efficiency, and Maintainability. I also think that all software should be economically feasibile (can be made within a pre-defined budget), ethically sound, unintrusive (concerning users' private information), and, to some extent, future-proof (this is obviously not guaranteed, but software should continue to receive support/maintainence while it is still in use).
 
 _1.8:  Discuss whether professional software engineers should be licensed in the same way as doctors or lawyers._
 
-I think that it would be very difficult to create some license that would certify that a software engineer is qualified to work on software; as the book mentions repeatedly throughout chapter 1, software can take on many different forms, each with their own set of necessities and priorities. The license would either be far too specific, requiring all software engineers to be proficient in engineering all possible types of software, or it would be so broad in scope that licesure would not convey any sense of certification because of the lack of specific skill/knowledge checks. 
+Ans: I think that it would be very difficult to create some license that would certify that a software engineer is qualified to work on software; as the book mentions repeatedly throughout chapter 1, software can take on many different forms, each with their own set of necessities and priorities. The license would either be far too specific, requiring all software engineers to be proficient in engineering all possible types of software, or it would be so broad in scope that licesure would not convey any sense of certification because of the lack of specific skill/knowledge checks. 
 
 _1.9:  For each of the clauses in the ACM/IEEE Code of Ethics shown in Figure 1.4, propose an appropriate example that illustrates that clause._
 
+Ans:
 PUBLIC - a software engineer should not create software to exploit users' personal data, as this is in no way to the public's interest.
 CLIENT AND EMPLOYER - a software engineer should strive to create software that meets or exceeds their client's/employer's specifications.
 PRODUCT - software engineers should take pride in their work and ensure that their software is (at least) acceptable, dependable/secure, efficient, and maintainable.
@@ -36,7 +36,7 @@ SELF - a software engineer should be dedicated to improving their skills and kno
 
 _1.10: To help counter terrorism, many countries are planning or have developed computer systems that track large numbers of their citizens and their actions. Clearly, this has privacy implications. Discuss the ethics of working on the development of this type of system._
 
-In many ways, creating/maintaining software like this (or in practically any military use) would require the individual to ensure that they follow their own personal ethical values first and foremost. Everyone's personal ethics on military action (even in the "preventative" sense) differ; their is no common answer to the ethicality of such actions. I feel that it would be the responsibility of all parties involved to regularly and often check the ethicality of what they are working on, in order to be sure that no lines have been crossed; any software engineers involved in such a project should know where that line is, for them personally, and respect it.
+Ans: In many ways, creating/maintaining software like this (or in practically any military use) would require the individual to ensure that they follow their own personal ethical values first and foremost. Everyone's personal ethics on military action (even in the "preventative" sense) differ; their is no common answer to the ethicality of such actions. I feel that it would be the responsibility of all parties involved to regularly and often check the ethicality of what they are working on, in order to be sure that no lines have been crossed; any software engineers involved in such a project should know where that line is, for them personally, and respect it.
 
 
 
@@ -49,4 +49,25 @@ I think that the biggest commonality between all three of the readings was that 
 
 
 
-(hw3)
+### HW3: Chapters 11 & 12
+
+_11.4:  What is the common characteristic of all architectural styles that are geared to supporting software fault tolerance?_
+
+Ans: All of the architectures to support fault tolerance use a diverse array of software to test the system, so that two different system checks would be unlikely to fail in the same way.
+
+_11.7:  It has been suggested that the control software for a radiation therapy machine, used to treat patients with cancer, should be implemented using N-version programming. Comment on whether or not you think this is a good suggestion._
+
+Ans: I don't think this is necessarily the best option, because it would be very expensive to build N versions of the software; I think it would be better to use a protection system.
+
+_11.9:  Explain why you should explicitly handle all exceptions in a system that is intended to have a high level of availability._
+
+Ans: In order to prevent an exception arrising that would cause the system to fail; if all exceptions are handled, then all possible (software level) errors are explicitly dealt with.
+
+_12.5 A train protection system automatically applies the brakes of a train if the speed limit for a segment of track is exceeded, or if the train enters a track segment that is currently signaled with a red light (i.e., the segment should not be entered). There are two critical-safety requirements for this train protection system:_ 
+>1--The train shall not enter a segment of track that is signaled with a red light.
+
+>2--The train shall not exceed the specified speed limit for a section of track.
+
+_Assuming that the signal status and the speed limit for the track segment are transmitted to on-board software on the train before it enters the track segment, propose five possible functional system requirements for the onboard software that may be generated from the system safety requirements._
+
+Ans: ......I don't understand this question, hopefully we talk about it in class.
