@@ -70,4 +70,4 @@ _12.5 A train protection system automatically applies the brakes of a train if t
 
 _Assuming that the signal status and the speed limit for the track segment are transmitted to on-board software on the train before it enters the track segment, propose five possible functional system requirements for the onboard software that may be generated from the system safety requirements._
 
-Ans: ......I don't understand this question, hopefully we talk about it in class.
+Ans: (1) The software will check track status once per second. (2) The software will check train speed once per second. (3) The train's speed will be compared to the track's speed limit every time the train speed is checked. (4) If train speed exceeds speed limit, software will apply train brakes until speed is 5mph less than limit. (5) If track status indicates a red light, brakes will be applied until train comes to a full stop.
