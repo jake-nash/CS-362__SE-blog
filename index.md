@@ -97,14 +97,16 @@ delivered and the customer's account debited.
 >In an internet banking system, a facility that allows customers to transfer funds from one
 account held with the bank to another account with the same bank.
 
-Ans: goes here
+Ans: (a) Function: charge customer for gas delivered. Inputs: card info, gas amount. Outputs: gas delivered, customer card charged. Action: customer card info found using card swipe, customer account charged for fuel amount * price per unit. Fuel is output up to the amount the user has paid for. When user indicates end of fueling, price of remaining unused fuel reimbursed to user card; receipt printed. (b) Function: dispense cash from ATM and subtract amount dispensed from user account. Precondition: customer account accessed and open. Input: amount of cash desired. Output: cash delivered, sum taken out of user's account. Action: Check desired amount against current account balance. Dispence cash in multiples of $20, not to exceed $500. (c) Function: transfer funds between separate accounts within the same bank. Inputs: account to draw funds from, account to give funds to, amount of funds. Precondition: both accounts are valid accounts within the same bank, and fund ammount does not exceed balance of account to draw from. Outputs: funds transfered, user given confirmation message of transfer. Action: check that both accounts are valid and that transfer ammount does not exceed balance of account to draw from. In both accounts, leave a record of the transfer (date, time, ammount, account to/from #). Inform user that funds have been transferred.
 
 _4.6) Suggest how an engineer responsible for drawing up a system requirements specification might keep track of the relationships between functional and non-functional requirements._
 
-Ans: goes here
+Ans: Start by writing non-functional requirements, and number them. Every functional requirement generated from a non-funtional requirement is numbered as a sub-item of the non-functional requirement (ie 1.1, 1.2, etc).
 
 _4.7) Using your knowledge of how an ATM is used, develop a set of use cases that could serve as a basis for understanding the requirements for an ATM system._
 
-Ans: goes here
+Ans: Case 1: deposit money; case 2: withdraw money; case 3: check balance; case 4: maintence/repair/stocking of ATM; case 5: can be used as an emergency phone
 
 ##### Reflections on reading: 
+
+write here
