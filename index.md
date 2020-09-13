@@ -85,7 +85,7 @@ In reading chapters 11-14, which discuss the reliability, safety, security, and 
 
 
 
- #### HW5: Chapter 4 and reflections
+#### HW5: Chapter 4 and reflections
  
 _4.5) Using the technique suggested here, where natural language descriptions are presented in a standard format, write plausible user requirements for the following functions:_
 >An unattended gas pump system that includes a credit card reader. The customer swipes
