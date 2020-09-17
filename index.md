@@ -110,3 +110,21 @@ Ans: Case 1: deposit money; case 2: withdraw money; case 3: check balance; case 
 ##### Reflections on reading: 
 
 I thought that all of the articles/reports dealing with security issues were interesting, especially the report on TPMSs and their vulnurabilities. I had never considered that something so basic and ubiquitous could be used for any sort of purpose. Obviously the researchers were trying to highlight that all future wireless signals in cars could be just as vulnerable if changes aren't made, but even the things they thought of that could be done with just this information! Tracking people, issuing fake tire alerts to make someone stop their vehicle, I never would have thought of those. It made me very glad to know that some people are trying just as hard to protect everyone as other people are trying to steal from/extort the general populace. Separately, I thought the idea of test-driven development was a good idea as far as making sure code is tested thoroughly, but I also thought the author of the article was overzealous in showing its usefulness. And lastly, I thought the idea of the short-term memory limits was interesting but not terribly applicable to this class.
+
+
+
+
+
+#### HW6: Chapter 2
+
+_2.1:  Suggest the most appropriate generic sofware process model that might be used as a basis for managing the development of the following systems. Explain your answers according to the type of system being developed:_
+
+> A system to control the antilock braking in a car
+
+> A virtual reality system to support software maintainence
+
+> A university accounting system that replaces an existing system
+
+> An interactive travel planning system that helps users plan journeys with the lowest environmental impact
+
+Ans: I think that the waterfall methodology would be best for the ABS system in a car, because ABS is a safety-critical system. The waterfall model requires a lot of formal planning and requirement validation before the system design begins, which is a desired quality when creating safety-critical software. For the second system, while I don't quite understand how a VR system could support software maintainence, what I know of VR and of software maintainence seems to best support incremental development; this would allow the core functionality of the system to be implemented from the start, and subsequent user input can address new/less important functionality. For the third system, since the new accounting software needs to replace the old system, I think that an integration/configuration mehtod would be best; that way, as long as the new system is compatible with the old system, then the old system doesn't have to be replaced all at once, it can instead be "phased-in" as each part of the software is finished. Finally, I think the last system should be designed using the incremental development model. While there is a core functionality that is defined ("journey with lowest environmental impact"), the word "interactive" to me seems vague, so probably, after using the system in its base version, users would change what they wanted "interactive" to mean, and so an incremental/agile development process would save the cost and expense of re-doing the system requirements and validation that would be needed if the formal waterfall methodology was used.
