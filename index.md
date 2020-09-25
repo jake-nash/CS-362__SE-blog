@@ -128,3 +128,41 @@ _2.1:  Suggest the most appropriate generic sofware process model that might be 
 > An interactive travel planning system that helps users plan journeys with the lowest environmental impact
 
 Ans: I think that the waterfall methodology would be best for the ABS system in a car, because ABS is a safety-critical system. The waterfall model requires a lot of formal planning and requirement validation before the system design begins, which is a desired quality when creating safety-critical software. For the second system, while I don't quite understand how a VR system could support software maintainence, what I know of VR and of software maintainence seems to best support incremental development; this would allow the core functionality of the system to be implemented from the start, and subsequent user input can address new/less important functionality. For the third system, since the new accounting software needs to replace the old system, I think that an integration/configuration mehtod would be best; that way, as long as the new system is compatible with the old system, then the old system doesn't have to be replaced all at once, it can instead be "phased-in" as each part of the software is finished. Finally, I think the last system should be designed using the incremental development model. While there is a core functionality that is defined ("journey with lowest environmental impact"), the word "interactive" to me seems vague, so probably, after using the system in its base version, users would change what they wanted "interactive" to mean, and so an incremental/agile development process would save the cost and expense of re-doing the system requirements and validation that would be needed if the formal waterfall methodology was used.
+
+
+
+
+
+#### HW7: Chapter 5 and 6
+
+_5.3: You have been asked to develop a system... planning large-scale events and parties.... Using an activity diagram, model the process context for such a system that shows the activities involved in planning... and the sysem elements that might be used at each stage._
+
+Ans:
+(((img?)))
+
+_5.5: Develop a sequence diagram showing the interactions involved when a student registers for a course in a university._
+
+Ans:
+(((img?)))
+
+_5.7: Based on your experience with a bank ATM, draw an activity diagram that models the data processing involved when a customer withdraws cash from the machine._
+
+Ans:
+(((img?)))
+
+_5.8: Draw a sequence diagram for the sae system \[as in 5.7\]. Explain why you might want to develop both activity and sequence diagrams when modeling the behavior of a system._
+
+Ans:
+(((img?)))
+((((And also explanation))))
+
+_6.4: Draw diagrams showing a conceptual view and a process view of the architectures of the following systems:_
+
+> A ticket machine used by passengers at a railway station.
+
+> A computer-controlled video conferencing system that allows video, audio, and computer data to be visible to several participants at the same time.
+
+> A robot floor-cleaner that is intended to clean relatively clear spaces such as corridors. The cleaner must be able to sense walls and other obstructions.
+
+Ans:
+(((img _sssss_ ?)))
