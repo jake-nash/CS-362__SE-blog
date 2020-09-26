@@ -165,4 +165,14 @@ _6.4: Draw diagrams showing a conceptual view and a process view of the architec
 > A robot floor-cleaner that is intended to clean relatively clear spaces such as corridors. The cleaner must be able to sense walls and other obstructions.
 
 Ans:
-(((img _sssss_ ?)))
+
+![Ticket machine](https://github.com/jake-nash/CS-362__SE-blog/blob/gh-pages/6.4%20diagram%20(a).png)
+
+![Conferencing software](https://github.com/jake-nash/CS-362__SE-blog/blob/gh-pages/6.4%20diagram%20(b).png)
+
+![Floor cleaner](https://github.com/jake-nash/CS-362__SE-blog/blob/gh-pages/6.4%20diagram%20(c).png)
+
+
+
+
+
