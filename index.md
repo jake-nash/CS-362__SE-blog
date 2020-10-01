@@ -192,3 +192,13 @@ In reading chapters 1-4 of [The Mythical Man-Month], I was most clearly struck b
 
 #### HW9: Chapter 8 and reflections on testing
 
+_8.7: Write a scenario that could be used to help design tests for the wilderness weather station system._
+
+Ans: The weather system has been deployed and is currently shut down. The system needs to be slightly reconfigured due to a known hardware issue. After being reconfigured and then restarted, the system's reliablity must be re-tested. In order to do this, the system needs to connect to its remote database and check its most recent data entries against the remote repository to ensure there has been no corruption of data. Then, the system will collect new set of data to report on current weather conditions, and send a report to the remote database; this new data set will be compared against similar data entries (recent entries, comparable historical entries, nearby entries, etc.) to test the newly calibrated system's accuracy. In the event that any of these tests fail or underperform, the unit will be put into a state of remote control so that more individual tests may be run to determine the issue.
+
+_8.10: A common approach to system testing is to test the system until the testing budget is exhausted and then deliver the system to customers. Discuss the ethics of this approach for systems that are delivered to external customers._
+
+Ans: I think that this is definitely not the best way to implement testing. Since this method says nothing about the amount of testing or the results of the testing, it would be easy for this measurement to not accurately reflect the quality of the software. Even if this wasn't done deliberately in an attempt to cheat the customer, the customer could still very well end up with a product that is not as reliable and/or robust as they expected, which in turn could easily cause issues with customer satisfaction as well as payment issues for the system produceers. Technically, it could be possible that this is an ethical approach, but only if the system requirements were very well established before production began and the customer decided that testing should be allocated only a certain amount of money and no more. Since I think this is a very unlikely situation, I I would say that this type of testing requirements are [not] a good business practice.
+
+##### Reflection on readings:
+
