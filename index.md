@@ -4,7 +4,7 @@
  
  
 
-#### HW0: Introduction
+### HW0: Introduction
 
 Hi, I'm Jacob Nash, a junior at CofC. This is my second attempt at getting a degree, so far it's going better than the first try. I'm enjoying learning new things again. I work as a math tutor, so if you need help in any math class feel free to reach out; my email is nashjr@g.cofc.edu, and my phone is (843) 847-1338.
 
@@ -12,7 +12,7 @@ Hi, I'm Jacob Nash, a junior at CofC. This is my second attempt at getting a deg
 
 
 
-#### HW1: Chapter 1
+### HW1: Chapter 1
 
 _1.3:  What are the four important attributes that all professional software should possess? Suggest four other attributes that may sometimes be significant._
 
@@ -50,7 +50,7 @@ I think that the biggest commonality between all three of the readings was that 
 
 
 
-#### HW3: Chapters 11 & 12
+### HW3: Chapters 11 & 12
 
 _11.4:  What is the common characteristic of all architectural styles that are geared to supporting software fault tolerance?_
 
@@ -77,7 +77,7 @@ Ans: (1) The software will check track status once per second. (2) The software 
 
 
 
-#### HW4: Reflections on software failures
+### HW4: Reflections on software failures
 
 In reading chapters 11-14, which discuss the reliability, safety, security, and resiliency of software, as well as all the other supplemental readings, my biggest takeaway is that no one really knows the best way to make software; or at least, no one has a methodology figured out for creating software that will be reliable, safe, secure, and resilient. I’m not saying that there isn’t good software out there, or that the people who made it just got lucky; I understand that by the nature of this, good software can’t really be reported on in the same way that faulty software can. That being said, there were so many high-profile failures across so many decades, that I’m left astonished. Surely, the reason for this must be the relative youth of software itself, which began complex and has also only grown more complex since the start. Several times, in the book and in some of the readings, it was mentioned that there are so many possible paths that software can take that it would be impossible to even list them all, let alone understand them all. It’s kind of strange to me that software, which (again, repeatedly mentioned) is purely thoughts and ideas, would be the most difficult aspect of many system engineering projects to master. It also is kind of logical, since the process of thought and creation has been the hallmark of humanity even back to history’s earliest philosophers. I think that it must be this intangibility of software that makes it so complex and challenging to master. On this note, I think that formal mathematical modelling and proofs of software would be incredibly useful to all software engineers, because it would take the abstract and immaterial and make it both visual and codifiable. The book mentions the idea of formal modelling many times, in discussions of safety as well as security and even simply correctness, but spends very little time discussing it; each time it mentions it, it says that there are some advocates of it, but that it is too difficult for people to learn. While I have absolutely no experience whatsoever with the topic, it seems very foolish to me to dismiss something so potentially valuable because it is hard to understand. After all, the focus of many of the readings (besides discussing the specifics of whatever event they were describing) was to say that software engineering is far too complex to be done without using incredibly specific oversight and checking and rechecking. This is already clearly a very complex area of study, and so I think that it would be worthwhile to learn something that could help with the process, even if that something is very mathematical and potentially hard to learn. On another subject, I think the textbook could be more useful than I first thought it would be. It seemed to me that the first many chapters I read were so general, in order to be applicable to any type of software engineering, that they said basically nothing. However, reading specifically chapters 13 and 14 I was able to see the usefulness of what the author was saying—yes, sometimes it was still very general, but I also saw the wisdom in the advice it gave (most notably on resilience, and the discussion of how resilience means different things for different software, and how to decide what attributes take priority).
 
@@ -85,7 +85,7 @@ In reading chapters 11-14, which discuss the reliability, safety, security, and 
 
 
 
-#### HW5: Chapter 4 and reflections
+### HW5: Chapter 4 and reflections
  
 _4.5) Using the technique suggested here, where natural language descriptions are presented in a standard format, write plausible user requirements for the following functions:_
 >An unattended gas pump system that includes a credit card reader. The customer swipes
@@ -115,7 +115,7 @@ I thought that all of the articles/reports dealing with security issues were int
 
 
 
-#### HW6: Chapter 2
+### HW6: Chapter 2
 
 _2.1:  Suggest the most appropriate generic sofware process model that might be used as a basis for managing the development of the following systems. Explain your answers according to the type of system being developed:_
 
@@ -133,7 +133,7 @@ Ans: I think that the waterfall methodology would be best for the ABS system in 
 
 
 
-#### HW7: Chapter 5 and 6
+### HW7: Chapter 5 and 6
 
 _5.3: You have been asked to develop a system... planning large-scale events and parties.... Using an activity diagram, model the process context for such a system that shows the activities involved in planning... and the sysem elements that might be used at each stage._
 
@@ -182,7 +182,7 @@ Ans:
 
 
 
-#### HW8: Mythical Man-Month
+### HW8: Mythical Man-Month
 
 In reading chapters 1-4 of [The Mythical Man-Month], I was most clearly struck by the author’s clarity and conciseness in expressing his ideas. I looked up the publication date several times because I couldn’t believe that it was as old as it was, and also as informative as it was. Surely, not everything he talked about is still terribly relevant (I’m sure companies have realized that throwing more people at a software project doesn’t finish the work faster, as it might in other engineering disciplines), but to me, as a novice in this area, I felt like I gained a lot of knowledge from a very short reading. I think that the (presumed) focus of our reading, the idea that more manpower ≠ less time, was pretty straightforward. At the time of his writing these essays, probably many managers didn’t understand this, especially if they had some experience in another engineering field. I thought that his advice seemed rather pertinent, and it seemed that much of his advice came from personal experience/mistakes, so it also rang true. Most fascinating to me was the idea of the “surgical team” organization of a programming team (and relatedly, his cathedral/architectural analogy in chapter 4). Largely, I thought this organizational idea was brilliant. Note that, before I say more, I don’t really know anything about this field, so all of this is my own opinion. That being said, the idea that everyone in the team should specialize into a specific aspect of the software creation seems very efficient and organized to me; it’s like a miniaturization of the way most all of life (but especially professions) have specialized  in order to maximize efficiency. I would really like to learn (and I plan to look up) whether this has been implemented before, and if so how well it worked. However, if I had to say something against this organizational structure, I would ask why it hasn’t been widely adopted. I’ve never heard of this idea before; surely, if this idea was put forth in/before 1975, and this book is widely read, people would’ve tried this idea before, and if it had worked others would have copied them. But again, I’ve never heard of it, so probably people have tried it and it didn’t work very well. I would think that the hardest part would be finding a capable enough “surgeon”, and also finding other programmers who would be willing to merely assist him/her instead of also contributing code. Lastly, to relate back to his idea of designing a building, I think that there should be one person (or a very small few people), the architect, who at the end of the day gets the final say how things should go. It relates back to the idea of the surgical team, in that there is a very clear hierarchy of command, and all issues are resolved by the same person. In this way, the architect can keep a tight hold on the conceptual integrity of the project, which was mentioned repeatedly mentioned as being important to the overall success of the software. 
 
@@ -190,7 +190,7 @@ In reading chapters 1-4 of [The Mythical Man-Month], I was most clearly struck b
 
 
 
-#### HW9: Chapter 8 and reflections on testing
+### HW9: Chapter 8 and reflections on testing
 
 _8.7: Write a scenario that could be used to help design tests for the wilderness weather station system._
 
