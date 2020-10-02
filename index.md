@@ -139,26 +139,26 @@ _5.3: You have been asked to develop a system... planning large-scale events and
 
 Ans:
 
-![5.3 diagram](https://github.com/jake-nash/CS-362__SE-blog/blob/gh-pages/5.3%20diagram.png)
+![5.3 diagram](5.3%20diagram.png)
 
 _5.5: Develop a sequence diagram showing the interactions involved when a student registers for a course in a university._
 
 Ans:
 
-![5.5 diagram](https://github.com/jake-nash/CS-362__SE-blog/blob/gh-pages/5.5%20diagram.png)
+![5.5 diagram](5.5%20diagram.png)
 
 _5.7: Based on your experience with a bank ATM, draw an activity diagram that models the data processing involved when a customer withdraws cash from the machine._
 
 Ans:
 
-![alt text5.7 diagram](https://github.com/jake-nash/CS-362__SE-blog/blob/gh-pages/5.7%20diagram.png)
+![alt text5.7 diagram](5.7%20diagram.png)
 
 _5.8: Draw a sequence diagram for the sae system \[as in 5.7\]. Explain why you might want to develop both activity and sequence diagrams when modeling the behavior of a system._
 
 Ans:
 It could be useful to create both activity diagrams and sequence diagrams since data-flow diagrams highlight the operations or activities, while sequence diagrams highlight objects in a system. Nonexperts tend to favor data-flow diagrams, whereas engineers tend to favor sequence diagrams.
 
-![5.8 diagram](https://github.com/jake-nash/CS-362__SE-blog/blob/gh-pages/5.8%20diagram.png)
+![5.8 diagram](5.8%20diagram.png)
 
 _6.4: Draw diagrams showing a conceptual view and a process view of the architectures of the following systems:_
 
@@ -170,13 +170,13 @@ _6.4: Draw diagrams showing a conceptual view and a process view of the architec
 
 Ans:
 
-![Ticket machine](https://github.com/jake-nash/CS-362__SE-blog/blob/gh-pages/6.4%20diagram%20(a).png)
+![Ticket machine](6.4%20diagram%20(a).png)
 
 
-![Conferencing software](https://github.com/jake-nash/CS-362__SE-blog/blob/gh-pages/6.4%20diagram%20(b).png)
+![Conferencing software](6.4%20diagram%20(b).png)
 
 
-![Floor cleaner](https://github.com/jake-nash/CS-362__SE-blog/blob/gh-pages/6.4%20diagram%20(c).png)
+![Floor cleaner](6.4%20diagram%20(c).png)
 
 
 
