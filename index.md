@@ -203,3 +203,56 @@ Ans: I think that this is definitely not the best way to implement testing. Sinc
 ##### Reflection on readings:
 
 I think that I, like probably many beginning programmers, don't appreciate the value of testing as much as I ought to. While I know that testing is necessary, I was surprised by how much time the readings recommended to be used for testing (about half of all time given to a project). The only programs I have every written have been very small, so I'm not surprised that very large and complicated systems (or even systems of systems) would require much more rigorous testing than I have needed so far. That said, I could definitely improve my own tests; I think one of the best ways I could do this is to use test-driven development (or at least think of the tests before I begin coding) so that I am more focused on potential bugs that could show up as I am writing the code or even while still designing it. I agree with the author that there is a difference between testing and debugging, but I would argue that the two are much more interrelated than the author felt. I also appreciated the author's discussion on the separation (and possible lack thereof) between the programmer and the tester, and the various trade-offs that occur when the two roles are fulfilled by the same person versus different persons.
+
+
+
+
+
+### HW10: Chapter 15
+
+_15.10: The reuse of software raises a number of copyright and intellectual property issues. If a customer pays a software contractor to develop a system, who has the right to reuse the developed code? Does the software contractor have the right to use that code as a basis for a generic component? What payment mechanisms might be used to reimburse providers of reusable code? Discuss these issues and other ethical issues associated with the reuse of software._
+
+Ans: Obviously this is a complex topic, with many different aspects to be considered. I don't think that these questions, in the general form they are stated now, _can_ be answered. There is no answer that fits for every situation, but I'll do my best to lay out some general guidelines. The easiest way to answer these questions would be to address them as part of the contract, before any software creation has been done; the customer and the contractor should decide who gets to keep and reuse the software (one or both of them). I think that if this is not all decided upon beforehand (which it likely won't be), and issues arise, then by default code ownership should belong to the creator as opposed to the customer. The code is more intellectual property than it is a physical good, and so the author/creator retains most of the rights to the software. This wouldn't _have_ to be the case: it could be that the contractor and customer decided that after delivering the original software, the contractor gives up all ownership (and reuse) of the code, and the customer may do whatever they like with it, including reselling it. Also, as a side note, I think that most of the time when software is reused it will be within a single company, and so most of theses issues are less (pressing if at all).
+
+
+
+
+### HW11: Chapter 9
+
+_9.8: Briefly describe the three main types of software maintenance. Why is is sometimes difficult to distinguish between them?_
+
+Ans: Fault repair (to fix bugs and vulnerabilities), environmental adaptation (to adapt the software to new platforms and environments), and functionality addition (to add new features and to support new requirements). These catagories are not mutually exclusive, and so a single maintenance instance may do multiple or all of these at once.
+
+_9.10: Do software engineers have a professional responsibility to develop code that can be easily maintained even if their employer does not explicitly request it?_
+
+Ans: It depends what you mean by "professional responsibility". If this is simply asking "is it good practice" or "is it in the developer's best interest" or even "is it a courtesy to others", then the answer is clearly [yes]. However, if this is asking if it is a requirement of developing code, or if it is unethical to not code with maintenance in mind, then I think the answer is a clear [no].
+
+
+
+
+
+### HW12: Chapter 16
+
+_16.9: Design the interfaces of components that might be used in a system for an emergency control room. You should design interfaces for a call-logging component that records calls made, and a vehicle discovery component that, given a post code (zip code) and an incident type, finds the nearest suitable vehicle to be dispatched to the incident._
+
+Ans: ![alt text](url)
+
+
+
+
+
+### HW13: Chapter 17
+
+_17.10: Your company wishes to move from using desktop applications to accessing the same functionality remotely as services. Identify three risks that might arise and suggest how these risks may be reduced._
+
+Ans: 
+
+
+
+
+
+### HW14: Chapter 18
+
+_18.4: Define an interface specification for the Currency Converter and Check credit rating services shown in Figure 18.7._
+
+Ans:
