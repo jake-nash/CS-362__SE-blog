@@ -225,7 +225,7 @@ Ans: Fault repair (to fix bugs and vulnerabilities), environmental adaptation (t
 
 _9.10: Do software engineers have a professional responsibility to develop code that can be easily maintained even if their employer does not explicitly request it?_
 
-Ans: It depends what you mean by "professional responsibility". If this is simply asking "is it good practice" or "is it in the developer's best interest" or even "is it a courtesy to others", then the answer is clearly [yes]. However, if this is asking if it is a requirement of developing code, or if it is unethical to not code with maintenance in mind, then I think the answer is a clear [no].
+Ans: It depends what you mean by "professional responsibility". If this is simply asking "is it good practice" or "is it in the developer's best interest" or even "is it a courtesy to others", then the answer is clearly __yes__. However, if this is asking if it is a requirement of developing code, or if it is unethical to not code with maintenance in mind, then I think the answer is a clear __no__.
 
 
 
