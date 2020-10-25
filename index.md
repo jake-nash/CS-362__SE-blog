@@ -249,7 +249,7 @@ Ans:
 
 _17.10: Your company wishes to move from using desktop applications to accessing the same functionality remotely as services. Identify three risks that might arise and suggest how these risks may be reduced._
 
-Ans: 
+Ans: One risk to this approach is that the company would no longer have direct access to the software, and would therefore rely on the service provider to continue to provide and maintain the service; this becomes an issue if the service provider shuts down or retires the software. This risk can be reduced by using services from reputable providers that have a history of maintaining their services. Another risk is that instead of paying once for indefinite access to an application, most services implement a subscription style payment, and so if the software is used infrequently or irregularly, it could cost much more to pay for the application as a service. This risk can be reduced by only using services for functionality used often and by many employees, so that the cost is the same (or possibly even less) than paying for the application once per employee. A third possible risk is with legal regulations governing data storage (security, accessibility, preservation, etc.); since using a service would require moving data to a remote service, this very well could violate certain regulations. The simplest way to avoid this risk is to simply avoid using services for data-sensitive purposes.
 
 
 
