@@ -235,7 +235,11 @@ Ans: It depends what you mean by "professional responsibility". If this is simpl
 
 _16.9: Design the interfaces of components that might be used in a system for an emergency control room. You should design interfaces for a call-logging component that records calls made, and a vehicle discovery component that, given a post code (zip code) and an incident type, finds the nearest suitable vehicle to be dispatched to the incident._
 
-Ans: ![alt text](url)
+Ans: 
+
+![Call logger component interface](16.9%20diagram(a).png)
+
+![Vehicle discovery component interface](16.9%20diagram(b).png)
 
 
 
