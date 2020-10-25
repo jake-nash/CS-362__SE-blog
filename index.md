@@ -259,4 +259,30 @@ Ans: One risk to this approach is that the company would no longer have direct a
 
 _18.4: Define an interface specification for the Currency Converter and Check credit rating services shown in Figure 18.7._
 
-Ans:
+Ans: 
+
+Currency Converter:
+![Currency Converter interface](18.4%20diagram(a).png)
+
+Check Credit Rating:
+![Check Credit Rating interface](18.4%20diagram(a).png)
+
+
+
+
+
+### HW15: Chapter 19
+
+_19.3: Why is it impossible to infer the emergent properties of a complex system from the properties of the system components?_
+
+Ans: 
+
+
+
+
+
+### HW16: Chapter 20
+
+_20.10: You work for a software company that has developed a system that provides information about consumers and that is used within a SoS by a number of other retail businesses. They pay you for the services used. Discuss the ethics of changing the system interfaces without notice to coerce users into paying higher chages. Consider this question from the point of view of the company's employees, customers, and shareholders._
+
+Ans: 
