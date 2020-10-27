@@ -275,7 +275,7 @@ Check Credit Rating:
 
 _19.3: Why is it impossible to infer the emergent properties of a complex system from the properties of the system components?_
 
-Ans: 
+Ans: This is for two reasons: first, systems become so complex that it is impossible to understand every aspect and detail of the system; secondly and more importantly, many non-functional properties such as reliablility and security do not emerge until the components are integrated into a system. The book repeatedly states that a system is more than the sum of its parts, which is also another way to view this: there is more happening that just all aspects of all the components, there is also a lot that occurs that is due to the complex interaction among the components.
 
 
 
