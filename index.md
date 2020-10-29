@@ -285,4 +285,4 @@ Ans: This is for two reasons: first, systems become so complex that it is imposs
 
 _20.10: You work for a software company that has developed a system that provides information about consumers and that is used within a SoS by a number of other retail businesses. They pay you for the services used. Discuss the ethics of changing the system interfaces without notice to coerce users into paying higher chages. Consider this question from the point of view of the company's employees, customers, and shareholders._
 
-Ans: 
+Ans: I don't think that there's much to discuss, that's clearly wrong, from any viewpoint. It's literally extortion.
