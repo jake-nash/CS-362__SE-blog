@@ -286,3 +286,43 @@ Ans: This is for two reasons: first, systems become so complex that it is imposs
 _20.10: You work for a software company that has developed a system that provides information about consumers and that is used within a SoS by a number of other retail businesses. They pay you for the services used. Discuss the ethics of changing the system interfaces without notice to coerce users into paying higher chages. Consider this question from the point of view of the company's employees, customers, and shareholders._
 
 Ans: I don't think that there's much to discuss, that's clearly wrong, from any viewpoint. It's literally extortion.
+
+
+
+
+
+### HW17: Team Progress I
+
+I think that we did pretty well, all things considered. All of us had some really busy weeks there, but we got a testing framework going and five tests running automatically. We'll have to do some cleaning up of unnecessary code, and I'd like to get the html page looking a bit nicer, but it's a good start. Also, I don't know that we have a written architectural description of the framework, nor "full how-to documentation". That would be worth looking into.
+
+
+
+
+
+### HW18: Chapter 21 and Chapter 22
+
+_21.4: Explain why an object-oriented approach to software development may not be suitable for real-time systems._
+
+Ans: From page 605: "Object-oriented development involves hiding data representations and accessing attribute values through operations defined with the object.There is a significant performance overhead in object-oriented systems because extra code is required to mediate access to attributes and handle calls to operations. The consequent loss of performance may make it impossible to meet real-time deadlines."
+
+_22.6: Fixed-price contracts, where the contractor bids a fixed price to complete a system development, may be used to move project risk from client to contractor. If anything goes wrong, the contractor has to pay. Suggest how the use of such contracs may increase the likelihood that product risks will arise._
+
+Ans: If the entire cost is decided before anything, then it will be impossible to implement iterations of the risk identification/analysis/planning/monitoring. Without being able to update risk probablilities or criticality, it becomes very difficult to manage risk avoidance, risk minimization, and contingency planning.
+
+
+
+
+
+### HW19: Chapter 23
+
+_23.6: Figure 23.14 shows the task durations for software projects activities. Assume that a serious, unanticipated setback occurs, and instead of taking 10 days, task T5 takes 40 days. Draw up new bar charts showing how the project might be reorganized._
+
+Ans: (ans)
+
+
+
+
+
+### HW20:Team Progress II
+
+(response)
