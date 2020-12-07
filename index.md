@@ -325,4 +325,14 @@ Ans: (ans)
 
 ### HW20:Team Progress II
 
-(response)
+Well, now we're pretty much done. We've still got to do the fault injections for next week, but I don't see that being very difficult. After that, all that's left is for us to finalize our report (by combining the five deliverables) and make the powerpoint presentation. I can't believe the semester's so close to being done! It was a busy semester for all of our team's members, but we pulled it off. I'm glad that I worked with the team that I did, everyone pulled their own weight and we all worked well together. Hopefully I'll be able to work with one or more of them next semester in 462.
+
+
+
+
+
+### HW21: Chapter 24
+
+_24.6: Explain why program inspections are an effective technique for discovering errors in a program. Whay types of error are unlikely to be discovered through inspections?_
+
+Ans: Program inspections are useful because they do not require the program to actually be executed; this also means that the program can be tested and verified even before it is complete. Inspections are also very useful because they can be used to test the program testers that are used to further ensure the program meets specifications; without some way to test the testers, then the testers' results would be inconclusive. Unfortunately, program inspections do have their own limitations--they cannot discover run-time errors, and if the inspector has the same misunderstanding as the programmer, then errors from misundertanding the requirements will also go unnoticed.
