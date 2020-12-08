@@ -317,7 +317,9 @@ Ans: If the entire cost is decided before anything, then it will be impossible t
 
 _23.6: Figure 23.14 shows the task durations for software projects activities. Assume that a serious, unanticipated setback occurs, and instead of taking 10 days, task T5 takes 40 days. Draw up new bar charts showing how the project might be reorganized._
 
-Ans: (ans)
+Ans: 
+
+![Re-scheduled timeline](23.6_diagram.png)
 
 
 
